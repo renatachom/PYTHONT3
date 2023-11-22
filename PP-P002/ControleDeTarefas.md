@@ -1,6 +1,12 @@
 # Sistema de Controle de Tarefas em Python
 
-Este é um aplicativo simples em Python para controle de tarefas, que utiliza arquivos para persistência de dados.
+- [Funcionalidades](#funcionalidades)
+  - [Listar Tarefas](#listar-tarefas)
+  - [Adicionar Nova Tarefa](#adicionar-nova-tarefa)
+  - [Marcar Tarefa como Realizada](#marcar-tarefa-como-realizada)
+  - [Editar Tarefa](#editar-tarefa)
+- [Uso do Aplicativo](#uso-do-aplicativo)
+- [Créditos](#créditos)
 
 ## Funcionalidades
 
